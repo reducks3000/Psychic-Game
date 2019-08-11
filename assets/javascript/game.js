@@ -11,7 +11,7 @@ const letter =
 
 // set up the computer to pick a random indexed value from aray
 let random = Math.floor(Math.random() * letter.length);
-const computerChoice = letter[random];
+let computerChoice = letter[random];
 
 console.log(computerChoice);
 

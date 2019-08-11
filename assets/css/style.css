@@ -1,0 +1,50 @@
+.header {
+    background-color: #ec74e6;
+    color: #e609da;
+    text-align: center;
+    padding: 15px;
+    border-bottom: 5px solid #e609da;
+    border-top: 5px solid #e609da;
+  }
+  .kirby {
+    background-image: url(../images/Kirby.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+  }
+  .container {
+    width: 60%;
+    background-color: #ec74e6;
+    color: #e609da;
+    border: 5px solid #e609da;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+  .col-md-12 {
+    padding: 2px;
+    margin: auto;
+  }
+  .populate {
+    background-color: #e609da;
+    color: white;
+    width: 50%;
+    margin: auto;
+  }
+  h1 {
+    margin: 0 auto;
+    font-size: 40px;
+    font-weight: bold;
+  }
+  h3 {
+    margin: 0 auto;
+    font-size: 32px;
+    font-weight: bold;
+  }
+  .info {
+    font-size: 24px;
+    margin: 0 auto;
+
+  }
+  
